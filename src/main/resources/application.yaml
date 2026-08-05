@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: TestIng
+  docker:
+    compose:
+      skip:
+        in-tests: true
+      lifecycle-management: start_and_stop
+external:
+  service:
+    url: "https://api.example.com"
