@@ -1,4 +1,4 @@
-package eu.btimpl.testing.contoller;
+package eu.btimpl.testing.controller;
 
 import eu.btimpl.testing.model.UserEntity;
 import eu.btimpl.testing.repository.UserRepository;

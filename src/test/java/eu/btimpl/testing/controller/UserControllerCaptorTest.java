@@ -1,4 +1,4 @@
-package eu.btimpl.testing.contoller;
+package eu.btimpl.testing.controller;
 
 import eu.btimpl.testing.config.SecurityConfig;
 import eu.btimpl.testing.dto.CreateUserRequest;
